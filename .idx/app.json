@@ -1,0 +1,9 @@
+{
+  "ports": [
+    {
+      "port": 3000,
+      "target": "web",
+      "visibility": "public"
+    }
+  ]
+}
